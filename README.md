@@ -1,2 +1,15 @@
-# Smart-Library-Management-System.Tobias
-Configuration Management Laboratory for the Smart Library Management System
+Smart Library Management System (SLMS)
+Project Description
+The Smart Library Management System (SLMS) is a web-based application designed to automate library operations at ABC State University.
+Project Modules
+- Member Management
+- Book Catalog
+- Book Borrowing
+- Book Returning
+- Inventory Management
+- Reports
+
+Development Team
+Student Name: Tobias, Jhan Raven M.
+Course: BSIT
+Section: SD -2C
