@@ -17,9 +17,9 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name: Timothee Oliveros
+Student Name: Tobias, Jhan Raven M.
 Course: BSIT
-Section: 2C
+Section: SD - 2C
 
 Member Management Module
 
