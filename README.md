@@ -25,7 +25,7 @@ Features
 
 Contributor Update
 
-Contributor Name: Timothee Oliveros
+Contributor Name: Timothee B. Oliveros
 
 Feature Added:
 - Digital Library Dashboard
