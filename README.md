@@ -7,7 +7,7 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
-- Inventory Managementss
+- Inventory Management
 - Reports
   
 Development Team
